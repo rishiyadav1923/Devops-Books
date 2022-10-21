@@ -1,4 +1,4 @@
-<a> https://www.google.com/url?sa=i&url=https%3A%2F%2Felitetools-partner.com%2Fgoogle-drive-gif%2F&psig=AOvVaw0RtPqXId0tV1mBne38Z8GF&ust=1666439384991000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjZ7s6g8foCFQAAAAAdAAAAABAE </a>
+<a> https://i0.wp.com/elitetools-partner.com/wp-content/uploads/2020/07/google-drive-gif.gif?fit=400%2C300&ssl=1 </a>
 
 <h1><b> Devops-Books </b></h1>
 <h3>The above "Devops.md" contain a Link which will forward you to the Drive folder with lots of Tech related resources and Devops guides. Because,
