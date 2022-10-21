@@ -1,6 +1,6 @@
 [![MasterHead](https://i0.wp.com/elitetools-partner.com/wp-content/uploads/2020/07/google-drive-gif.gif?fit=400%2C300&ssl=1)](https://elitetools-partner.com/google-drive-gif/)
 
-[![MasterHead](https://pin.it/5TqN225)]
+[![MasterHead](https://pin.it/5TqN225)](https://in.pinterest.com/pin/526217537703296936/)
 
 <h1><b> Devops-Books </b></h1>
 <h3>The above "Devops.md" contain a Link which will forward you to the Drive folder with lots of Tech related resources and Devops guides. Because,
