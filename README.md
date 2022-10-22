@@ -3,7 +3,6 @@
 [![MasterHead](https://www.caveconsulting.com/wp-content/uploads/2020/08/cloudfiles.gif)](https://www.caveconsulting.com/blog/2020/08/15/5-tips-to-managing-company-files-in-google-drive/)
 
 <h1><b> Devops-Books </b></h1>
-<h3>The above "Devops.md" contain a Link which will forward you to the Drive folder with lots of Tech related resources and Devops guides. Because,
-the folder is extremely large that even Git LFS can't upload (something around 7.00 GB) so i have uploaded it on my Drive and provided a link in it 
-Hope it Helps !!!
-</h3>
+<span>
+<a href = "https://drive.google.com/drive/folders/1xCgR6ZFBreRJpiH5V__fwJio54-VS1X2?usp=sharing">Click Here !!!</a>
+</span>
