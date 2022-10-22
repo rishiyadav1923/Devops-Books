@@ -6,3 +6,4 @@
 <span>
 <a href = "https://drive.google.com/drive/folders/1xCgR6ZFBreRJpiH5V__fwJio54-VS1X2?usp=sharing">Click Here !!!</a>
 </span>
+<p> Above Link contain Lots of material sufficient for On-campus & Off-campus placement </p>
